@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"/>
+    <item
+        android:id="@+id/sensors"
+        android:title="Sensors"/>
+    <item
+        android:id="@+id/test1"
+        android:title="Start New Activity"/>
+    <item
+        android:id="@+id/test2"
+        android:title="Show Alert Dialog"/>
+    <item
+        android:id="@+id/test3"
+        android:title="Toast"/>
+</menu>
